@@ -13,7 +13,7 @@
 </div> 
 
 <div align="center">
-  <img src="https://github.com/untilidie/untilidi3/blob/main/lil.png?raw=true" alt="wifies" width="550" align="left">
+  <img src="https://github.com/untilidie/untilidi3/blob/main/lil.png?raw=true" alt="wifies" width="400" align="left">
   <br>
   <br>
   <br>
