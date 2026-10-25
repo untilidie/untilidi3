@@ -43,6 +43,6 @@ ${\textsf{\color{#eee3f3} ( ˶ˆ ᗜ ˆ˵ )}}$
 
 <div align="center"> 
   
-  ${\textsf{\color{#aa98ca} 𑣲⋆ ᴀᴄ: @ɴ𝟥ɢʀ𝟢ɴɪ ᴏɴ x}}$
+  ${\textsf{\color{#dad2ee} 𓏲 ๋࣭  ࣪ ˖}}$ ${\textsf{\color{#edbfd1} ᴀᴄ:}}$ ${\textsf{\color{#aa98ca} @ɴ𝟥ɢʀ𝟢ɴɪ}}$ ${\textsf{\color{#aa98ca} ᴏɴ x}}$
 
 </div>
