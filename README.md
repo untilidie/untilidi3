@@ -8,7 +8,7 @@
 
 <div align="center"> 
   
-  <img src="https://i.pinimg.com/originals/f0/b4/24/f0b42454b98f5d9d598ff6901ef94434.gif" alt="gify" width="40">
+  <img src="https://i.pinimg.com/originals/ae/ff/bd/aeffbd01c78792e1c944ffdfd2c566ea.gif" alt="gify" width="40">
   
 </div> 
 
@@ -18,6 +18,12 @@
   <br>
   <br>
   <br>
-  i go afk alot so i don't check pub chat usually<br>
-  please whisp me or s-ata if you need smth
+  
+kkkkk
+${\textsf{\color{#d7d3ed} ɪ }}$ ${\textsf{\color{#e0cce4} ɢᴏ }}$ ${\textsf{\color{#e6c4da} ᴀꜰᴋ }}$
+
+
+
+  </p>
+
 </div> 
