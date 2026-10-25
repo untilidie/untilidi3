@@ -8,12 +8,12 @@
 
 <div align="center"> 
   
-  <img src="https://github.com/untilidie/untilidi3/blob/main/mmm.png?raw=true" alt="blueberry" width="40">
+  <img src="https://i.pinimg.com/originals/f0/b4/24/f0b42454b98f5d9d598ff6901ef94434.gif" alt="gify" width="40">
   
 </div> 
 
 <div align="center">
-  <img src="https://github.com/untilidie/untilidi3/blob/main/lil.png?raw=true" alt="wifies" width="400" align="left">
+  <img src="https://github.com/untilidie/untilidi3/blob/main/lilwi%20(1).png" alt="wifies" width="400" align="left">
   <br>
   <br>
   <br>
